@@ -1,6 +1,4 @@
-# [GitHub Stats](https://github.com/jstrieb/github-stats)
-
-<a href="https://github.com/jstrieb/github-stats">
+### My Github Stats
 
 ![](https://github.com/thanhqtran/thanhqtran/blob/master/generated/overview.svg)
 ![](https://github.com/thanhqtran/thanhqtran/blob/master/generated/languages.svg)
@@ -21,13 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br />
 
 ### About Me 🚀
  💬 Name: Thanh (pronounced like "Thank"). nickname: Tedd </br>
-🌱 I am a Ph.D. student in Economics at <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html"> Tohoku University </a>. <img width="20px" src="https://www.tohoku.ac.jp/en/common_images/tohokuuniversitylogo.gif" alt=""/>
+🌱 I am a Ph.D. student in Economics at <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html"> Tohoku University</a>. <img width="20px" src="https://www.tohoku.ac.jp/en/common_images/tohokuuniversitylogo.gif"/> </br>
 👨‍💻 Research interest: economic growth, demographics, agent-based and simulation methods </br>
 🔭 Models: overlapping generations, RBC </br>
+<br />
 
 ### Network
 
