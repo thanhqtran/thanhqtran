@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 👨‍💻 **Research interest**: economic growth, demographics, agent-based and simulation methods </br>
 🔭 **Models**: overlapping generations, RBC </br>
 <br />
-
 ### How to reach me 👯
 <a href="https://www.linkedin.com/in/tranquangthanhftu/">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
