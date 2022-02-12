@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
  💬 Name: Thanh (pronounced like "Thank"). nickname: Tedd </br>
-🌱 I am a Ph.D. student in Economics at Tohoku University. <img align="left" width="26px" src="https://www.tohoku.ac.jp/en/common_images/tohokuuniversitylogo.gif" /></br>
+🌱 I am a Ph.D. student in Economics at <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html" Tohoku University </a>. <img width="20px" src="https://www.tohoku.ac.jp/en/common_images/tohokuuniversitylogo.gif" alt=""/>
 👨‍💻 Research interest: economic growth, demographics, agent-based and simulation methods </br>
 🔭 Models: overlapping generations, RBC </br>
