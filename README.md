@@ -21,6 +21,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br />
+
+### About Me 🚀
+ 💬 Name: Thanh (pronounced like "Thank"). nickname: Tedd </br>
+🌱 I am a Ph.D. student in Economics at <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html"> Tohoku University </a>. <img width="20px" src="https://www.tohoku.ac.jp/en/common_images/tohokuuniversitylogo.gif" alt=""/>
+👨‍💻 Research interest: economic growth, demographics, agent-based and simulation methods </br>
+🔭 Models: overlapping generations, RBC </br>
+
+### Network
 
 <a href="https://www.linkedin.com/in/tranquangthanhftu/">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
@@ -37,11 +46,3 @@ Here are some ideas to get you started:
 <a href="mailto:tranquangthanh.ftu@gmail.com">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
 </a>
-
-<br />
-
-### About Me 🚀
- 💬 Name: Thanh (pronounced like "Thank"). nickname: Tedd </br>
-🌱 I am a Ph.D. student in Economics at <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html" Tohoku University </a>. <img width="20px" src="https://www.tohoku.ac.jp/en/common_images/tohokuuniversitylogo.gif" alt=""/>
-👨‍💻 Research interest: economic growth, demographics, agent-based and simulation methods </br>
-🔭 Models: overlapping generations, RBC </br>
