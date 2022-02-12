@@ -2,8 +2,8 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/thanhqtran/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/thanhqtran/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/thanhqtran/thanhqtran/blob/master/generated/overview.svg)
+![](https://github.com/thanhqtran/thanhqtran/blob/master/generated/languages.svg)
 
 </a>
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.linkedin.com/in/tranquangthanhftu/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 <a href="https://www.researchgate.net/profile/Quang-Thanh-Tran-2">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" />
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" />
 </a>
 <a href="mailto:tranquangthanh.ftu@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
 </a>
 
 <br />
