@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <a href="mailto:tranquangthanh.ftu@gmail.com">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
 </a>
+</br>
 
 <style type="text/css" media="screen">
   .gr_grid_container {
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 
   .gr_grid_book_container {
     /* customize book cover container div here */
-    float: left;
+    float: none;
     width: 39px;
     height: 60px;
     padding: 0px 0px;
