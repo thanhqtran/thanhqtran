@@ -1,4 +1,4 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+# [GitHub Stats](https://github.com/jstrieb/github-stats)
 
 <a href="https://github.com/jstrieb/github-stats">
 
@@ -41,5 +41,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I am a Ph.D. student in Economics at Tohoku University. </br>
-👨‍💻 My research interest: economic growth, demographics, agent-based and simulation methods </br>
+ 💬 Name: Thanh (pronounced like "Thank"). nickname: Tedd </br>
+🌱 I am a Ph.D. student in Economics at Tohoku University. <img align="left" width="26px" src="https://www.tohoku.ac.jp/en/common_images/tohokuuniversitylogo.gif" /></br>
+👨‍💻 Research interest: economic growth, demographics, agent-based and simulation methods </br>
+🔭 Models: overlapping generations, RBC </br>
