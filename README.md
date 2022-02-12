@@ -1,3 +1,4 @@
+<a href="https://github.com/jstrieb/github-stats"
 ![](https://github.com/thanhqtran/thanhqtran/blob/master/generated/overview.svg)
 ![](https://github.com/thanhqtran/thanhqtran/blob/master/generated/languages.svg)
 </a>
