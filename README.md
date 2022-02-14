@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 💬 **Name**: **Thanh** (pronounced like "Thanks" without "ks"). Nickname: **Tedd** </br>
-🌱 **Work**: Ph.D. student in Economics at <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html"> Tohoku University</a>. <img width="20px" src="https://www.tohoku.ac.jp/en/common_images/tohokuuniversitylogo.gif"/> </br>
+🌱 **Work**: Ph.D. student in Economics at <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html"> Tohoku University</a>. <img width="18px" src="https://www.tohoku.ac.jp/en/common_images/tohokuuniversitylogo.gif"/> </br>
 👨‍💻 **Research interest**: economic growth, demographics, agent-based and simulation methods </br>
 🔭 **Models**: overlapping generations, RBC </br>
 ### How to reach me 👯
