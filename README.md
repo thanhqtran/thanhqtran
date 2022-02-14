@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 🌱 **Work**: Ph.D. student in Economics at <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html"> Tohoku University</a>. <img width="20px" src="https://www.tohoku.ac.jp/en/common_images/tohokuuniversitylogo.gif"/> </br>
 👨‍💻 **Research interest**: economic growth, demographics, agent-based and simulation methods </br>
 🔭 **Models**: overlapping generations, RBC </br>
-<br />
 ### How to reach me 👯
 <a href="https://www.linkedin.com/in/tranquangthanhftu/">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
