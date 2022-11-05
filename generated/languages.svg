@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #DA5B0B;width: 85.418%;" class="progress-item"></span><span style="background-color: #3D6117;width: 7.640%;" class="progress-item"></span><span style="background-color: #e16737;width: 4.099%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.840%;" class="progress-item"></span><span style="background-color: #198CE7;width: 0.991%;" class="progress-item"></span><span style="background-color: #000000;width: 0.012%;" class="progress-item"></span>
+<span style="background-color: #DA5B0B;width: 85.411%;" class="progress-item"></span><span style="background-color: #3D6117;width: 7.634%;" class="progress-item"></span><span style="background-color: #e16737;width: 4.096%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.838%;" class="progress-item"></span><span style="background-color: #198CE7;width: 0.990%;" class="progress-item"></span><span style="background-color: #a270ba;width: 0.018%;" class="progress-item"></span><span style="background-color: #000000;width: 0.012%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -116,7 +116,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Jupyter Notebook</span>
-<span class="percent">85.42%</span>
+<span class="percent">85.41%</span>
 </li>
 
 
@@ -125,7 +125,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TeX</span>
-<span class="percent">7.64%</span>
+<span class="percent">7.63%</span>
 </li>
 
 
@@ -157,6 +157,15 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
 
 <li style="animation-delay: 750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#a270ba;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Julia</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 900ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
