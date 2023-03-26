@@ -257,7 +257,7 @@ class Stats(object):
         session: aiohttp.ClientSession,
         exclude_repos: Optional[Set] = None,
         exclude_langs: Optional[Set] = ['rtf','html']
-        ignore_forked_repos: bool = True,
+        ignore_forked_repos: bool = False,
     ):
         self.username = username
         self._ignore_forked_repos = ignore_forked_repos
