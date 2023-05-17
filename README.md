@@ -32,6 +32,15 @@ Here are some ideas to get you started:
 <a href="https://thanhqtran.github.io">
   <img align="left" width="26px" src="https://img.favpng.com/13/12/10/github-pages-logo-computer-icons-png-favpng-ew8sjnZfG8RsyhJNBTL2Dw3SR.jpg" />
 </a>
+<a href="https://ideas.repec.org/f/ptr448.html">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/master/images/ideas.svg" />
+</a>
+<a href="https://scholar.google.com/citations?user=rWZJIlwAAAAJ&hl=en">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/master/images/scholar.svg" />
+</a>
+<a href="https://researchmap.jp/tranquangthanh">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/master/images/rm.svg" />
+</a>
 <a href="https://nipponkiyoshi.com">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" />
 </a>
