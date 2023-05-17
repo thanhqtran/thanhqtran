@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 👨‍💻 **Research interest**: economic growth, macroeconomics, growth accounting, agent-based and computational economics. </br>
 🔭 **Models**: overlapping generations, RBC </br>
 ### How to reach me 👯
+<a href="mailto:tran.quang.thanh.p1@dc.tohoku.ac.jp">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
+</a>
 <a href="https://www.linkedin.com/in/tranquangthanhftu/">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
@@ -43,9 +46,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://nipponkiyoshi.com">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" />
-</a>
-<a href="mailto:tranquangthanh.ftu@gmail.com">
-  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
 </a>
     <a
     id="cy-effective-orcid-url"
