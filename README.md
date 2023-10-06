@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ### About Me 🚀
-💬 **Name**: **Quang-Thanh Tran**. Nickname: **Tedd** </br>
-🌱 **Work**: Ph.D. candidate in Economics at <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html"> Tohoku University</a>.</br>
+💬 **Name**: **Quang-Thanh Tran**.
+🌱 **Work**: <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html"> Tohoku University</a>.</br>
 👨‍💻 **Research interest**: economic growth </br>
 🔭 **Models**: overlapping generations, RBC </br>
 ### How to reach me 👯
