@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 💬 **Name**: **Quang-Thanh Tran**.
+
 🌱 **Work**: <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html"> Tohoku University</a>.</br>
+
 👨‍💻 **Research interest**: economic growth </br>
-🔭 **Models**: overlapping generations, RBC </br>
+
 ### How to reach me 👯
 <a href="mailto:tran.quang.thanh.p1@dc.tohoku.ac.jp">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
