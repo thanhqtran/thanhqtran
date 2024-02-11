@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🌱 **Affiliation**: <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html"> Tohoku University</a>.</br>
 
-👨‍💻 **Research interest**: economic growth </br>
+👨‍💻 **Research interest**: economic growth, macroeconomics, demography </br>
 
 ### ORCID
 </a>
