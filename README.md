@@ -39,4 +39,4 @@ Here are some ideas to get you started:
       https://orcid.org/0000-0002-0308-1278
     </a>
 
-<figure><embed src="https://wakatime.com/share/@cc163315-2340-4910-bf0e-56d030d0986e/519a62fe-6940-41ff-b3c5-1dda302a8555.svg"></embed></figure>
+![](https://wakatime.com/share/@cc163315-2340-4910-bf0e-56d030d0986e/b4fc00b6-0630-48e2-85c0-4b0da45af4af.png)
