@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me 🚀
-💬 **Name**: **Quang-Thanh Tran**.
-
 🌱 **Affiliation**: <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html"> Tohoku University</a>.</br>
 
 👨‍💻 **Research interest**: economic growth, macroeconomics, demography </br>
