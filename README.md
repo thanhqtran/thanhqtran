@@ -39,3 +39,4 @@ Here are some ideas to get you started:
       https://orcid.org/0000-0002-0308-1278
     </a>
 
+[![wakatime](https://wakatime.com/badge/user/cc163315-2340-4910-bf0e-56d030d0986e.svg)](https://wakatime.com/@cc163315-2340-4910-bf0e-56d030d0986e)
