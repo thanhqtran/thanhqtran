@@ -4,7 +4,7 @@
 
 <a>
     
-[![wakatime](https://wakatime.com/badge/user/cc163315-2340-4910-bf0e-56d030d0986e.svg)](https://wakatime.com/@cc163315-2340-4910-bf0e-56d030d0986e) [![s](https://img.shields.io/badge/GoogleScholar-Quang-Thanh_Tran-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=rWZJIlwAAAAJ)
+[![wakatime](https://wakatime.com/badge/user/cc163315-2340-4910-bf0e-56d030d0986e.svg)](https://wakatime.com/@cc163315-2340-4910-bf0e-56d030d0986e) [![s](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?hl=en&user=rWZJIlwAAAAJ)
 
 </a>
 
