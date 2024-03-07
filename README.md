@@ -38,3 +38,5 @@ Here are some ideas to get you started:
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0002-0308-1278
     </a>
+
+![](https://wakatime.com/insights/animated/days.gif "Coding Frequency")
