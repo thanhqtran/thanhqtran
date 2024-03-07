@@ -39,4 +39,4 @@ Here are some ideas to get you started:
       https://orcid.org/0000-0002-0308-1278
     </a>
 
-![](https://wakatime.com/insights/animated/days.gif "Coding Frequency")
+<figure><embed src="https://wakatime.com/share/@cc163315-2340-4910-bf0e-56d030d0986e/519a62fe-6940-41ff-b3c5-1dda302a8555.svg"></embed></figure>
