@@ -1,3 +1,4 @@
+<!-- 
 ![](https://github.com/thanhqtran/thanhqtran/blob/master/generated/overview.svg)
 ![](https://github.com/thanhqtran/thanhqtran/blob/master/generated/languages.svg)
 </a>
@@ -47,3 +48,4 @@ Here are some ideas to get you started:
     </a>
 
 
+-->
