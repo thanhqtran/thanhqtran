@@ -1,4 +1,7 @@
-![](generated/languages.svg)
+![](generated/languages.svg#gh-dark-mode-only)
+![](generated/languages.svg#gh-light-mode-only)
+![](generated/overview.svg#gh-dark-mode-only)
+![](generated/overview.svg#gh-light-mode-only)
 
 <!--
 [![wakatime](https://wakatime.com/badge/user/cc163315-2340-4910-bf0e-56d030d0986e.svg)](https://wakatime.com/@cc163315-2340-4910-bf0e-56d030d0986e) 
