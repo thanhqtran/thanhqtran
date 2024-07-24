@@ -12,7 +12,9 @@
 <!--
 🌱 **Affiliation**: <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html"> Tohoku University</a>.</br>
 
-👨‍💻 **Research interest**: economic growth, macroeconomics, demography </br>
+**Research interest**: economic growth, macroeconomics </br>
+
+**Vitae**: [cv](https://thanhqtran.github.io/cv/)
 
 </a>
     <a
