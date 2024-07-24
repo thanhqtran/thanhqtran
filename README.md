@@ -7,13 +7,7 @@
 [![wakatime](https://wakatime.com/badge/user/cc163315-2340-4910-bf0e-56d030d0986e.svg)](https://wakatime.com/@cc163315-2340-4910-bf0e-56d030d0986e) 
 -->
 
-[![](https://img.shields.io/badge/Quang--Thanh%20Tran-Google%20Scholar-red)](https://scholar.google.com/citations?hl=en&user=rWZJIlwAAAAJ) [![research map](https://img.shields.io/badge/Research-Map-green)](https://researchmap.jp/tranquangthanh)
-
-🌱 **Affiliation**: <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html"> Tohoku University</a>.</br>
-
-**Research interest**: economic growth, macroeconomics </br>
-
-**Vitae**: [cv](https://thanhqtran.github.io/cv/)
+[![](https://img.shields.io/badge/Quang--Thanh%20Tran-Google%20Scholar-red)](https://scholar.google.com/citations?hl=en&user=rWZJIlwAAAAJ) [![research map](https://img.shields.io/badge/Research-Map-green)](https://researchmap.jp/tranquangthanh) [1[CV](https://thanhqtran.github.io/cv/)]
 
 </a>
     <a
