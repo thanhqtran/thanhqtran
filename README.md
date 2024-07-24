@@ -9,7 +9,6 @@
 
 [![](https://img.shields.io/badge/Quang--Thanh%20Tran-Google%20Scholar-red)](https://scholar.google.com/citations?hl=en&user=rWZJIlwAAAAJ) [![research map](https://img.shields.io/badge/Research-Map-green)](https://researchmap.jp/tranquangthanh)
 
-<!--
 🌱 **Affiliation**: <a href="https://www2.econ.tohoku.ac.jp/english/page-gpem.html"> Tohoku University</a>.</br>
 
 **Research interest**: economic growth, macroeconomics </br>
